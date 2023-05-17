@@ -1,0 +1,4 @@
+1#Clifton#Bartholomew#92,5#1,89
+2#Cole#Peters#72,4#1,50
+3#Sebastion#Bazinga#80,1#1,52
+4#Aadi#Naidoo#79,8#1,60
